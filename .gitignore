@@ -1,0 +1,22 @@
+# Airflow logs
+logs/
+
+# Generated output files
+output/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker volumes (safety)
+postgres_data/
