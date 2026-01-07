@@ -81,7 +81,7 @@ airflow-etl-project/
 │
 ├── logs/
 └── plugins/
-
+```
 
 DAG 1 – CSV TO POSTGRES INGESTION
 --------------------------------
