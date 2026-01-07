@@ -200,6 +200,5 @@ All DAGs executed successfully:
 
 This project represents a complete, real-world Airflow ETL pipeline
 suitable for portfolio, interviews, and learning.
-=====================================================
-"""
+
 
