@@ -1,14 +1,13 @@
-"""
+
 Airflow ETL Project – Complete Documentation
 ===========================================
 
 This file contains the FULL documentation of the Airflow ETL project
 in text format, written inside a Python file for easy access, review,
 and future conversion to README.md if required.
-"""
 
 
-PROJECT_DOCUMENTATION = """
+PROJECT_DOCUMENTATION = 
 =====================================================
 📊 Airflow ETL Pipeline with Docker & PostgreSQL
 =====================================================
